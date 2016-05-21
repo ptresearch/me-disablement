@@ -21,3 +21,7 @@ Moscow:
   - Disable #6: Corruption of ME flash region
   - ME is not working, really?
   - ME disable myths
+
+* Demo
+
+  [[https://raw.githubusercontent.com/ptresearch/me-disablement/master/Intel%20ME%20disabling,%20PHDays%20VI%20Demo.m4v][ME disablement demo video]].
