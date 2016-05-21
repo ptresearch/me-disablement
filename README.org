@@ -1,0 +1,23 @@
+#+startup: hidestars odd
+
+* Disabling Intel ME
+
+This repository contains slides for the talk given at the PHDays VI conference in
+Moscow:
+
+  http://www.phdays.com/program/51879/
+
+* Contents
+
+  - ME: what is it?
+  - Why you might want to disable it?
+  - Intel ME vs. Intel AMT vs. Intel vPro
+  - ME structural block scheme and evolution
+  - Disable #1: DRAM_INIT_DONE
+  - Disable #2: flash region update facilitation mechanisms
+  - Disable #3: soft temporary disable
+  - Disable #4: ME runtime disable
+  - Disable #5: Disruption of the ME access path to UMA
+  - Disable #6: Corruption of ME flash region
+  - ME is not working, really?
+  - ME disable myths
